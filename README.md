@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # LifeLink - Blood Donation System
 
 A cloud-based blood donation request system that connects blood donors with recipients using Supabase for authentication and database management.
@@ -92,9 +92,7 @@ A cloud-based blood donation request system that connects blood donors with reci
 - `PUT /api/notifications/:id/read`: Mark notification as read
 - `PUT /api/notifications/read-all`: Mark all notifications as read
 
-## License
 
-MIT License
 =======
 # LifeLink - Blood Donation Request System
 
