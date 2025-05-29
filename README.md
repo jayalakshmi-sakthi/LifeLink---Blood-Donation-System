@@ -2,9 +2,6 @@
 
 LifeLink is a cloud-based full stack web application that connects blood donors with recipients and hospitals efficiently. It is designed to streamline the process of finding and requesting blood, promoting a life-saving network.
 
-## 🔗 Live Demo
-[Click here to view the live application](https://lifelink.example.com)  
-*(Update this link once hosted)*
 
 ---
 
@@ -34,4 +31,9 @@ LifeLink is a cloud-based full stack web application that connects blood donors 
 - 📈 Admin dashboard to manage users and requests
 
 ---
-
+## Screenshots
+"C:\Users\sakth\OneDrive\Pictures\Screenshots\Screenshot 2025-05-18 093421.png"
+"C:\Users\sakth\OneDrive\Pictures\Screenshots\Screenshot 2025-05-18 092951.png"
+"C:\Users\sakth\OneDrive\Pictures\Screenshots\Screenshot 2025-05-18 092921.png"
+"C:\Users\sakth\OneDrive\Pictures\Screenshots\Screenshot 2025-05-18 092908.png"
+"C:\Users\sakth\OneDrive\Pictures\Screenshots\Screenshot 2025-05-18 092846.png"
