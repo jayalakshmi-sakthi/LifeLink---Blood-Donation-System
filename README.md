@@ -134,7 +134,7 @@ LifeLink is a cloud-based full stack web application that connects blood donors 
 ![Screenshot 2025-05-18 092908](https://github.com/user-attachments/assets/b861b108-339b-4fe6-a6f8-561b9ce7ba6d)
 
 
-![Screenshot 2025-05-18 092921](https://github.com/user-attachments/assets/3a387dd0-7570-44c3-ba0c-0f840ed66adb)
+
 
 
 ![Screenshot 2025-05-18 092951](https://github.com/user-attachments/assets/0885b50a-d74c-42b2-9121-fd211fa4e667)
@@ -153,4 +153,3 @@ LifeLink is a cloud-based full stack web application that connects blood donors 
 
 
 
->>>>>>> eab499b30b55c48c74ce6c4bf9ff61d7d70d4dcf
